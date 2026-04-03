@@ -18,13 +18,13 @@ Dalam konteks ini, **Exploit** adalah perangkat lunak (Executor) yang memungkink
 
 | Platform | Name | Status | Link |
 | :--- | :--- | :--- | :--- |
-| **PC** | **Potassium** | ✅ Undetected | [Official Link](#) |
-| **PC** | **Wave** | ⚠️ Testing | [Official Link](#) |
-| **PC** | **Volcano** | ✅ Undetected | [Official Link](#) |
-| **PC** | **Velocity** | ✅ Undetected | [Official Link](#) |
-| **PC** | **Ronix** | ❌ Patching | [Official Link](#) |
-| **Mobile** | **Delta** | ✅ Undetected | [Official Link](#) |
-| **Mobile** | **Cryptic** | ✅ Undetected | [Official Link](#) |
+| **PC** | **Potassium** | ✅ Undetected | [Official Link](https://potassium.pro/) |
+| **PC** | **Wave** | ⚠️ Testing | [Official Link](https://getwave.gg/) |
+| **PC** | **Volcano** | ✅ Undetected | [Official Link](https://volcano.wtf/) |
+| **PC** | **Velocity** | ✅ Undetected | [Official Link](https://realvelocity.xyz/) |
+| **PC** | **Ronix** | ❌ Patching | [Official Link](https://ronixstudios.io/) |
+| **Mobile** | **Delta** | ✅ Undetected | [Official Link](https://deltaexploits.gg/) |
+| **Mobile** | **Cryptic** | ✅ Undetected | [Official Link](https://getcryptic.net/) |
 
 ---
 
